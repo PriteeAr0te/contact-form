@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Text and Button Gradient Start*/
 .gradient-text {
   background: linear-gradient(
     to right,
@@ -29,7 +30,9 @@
   );
   background-size: 300% 300%;
 }
+/* Text and Button Gradient End*/
 
+/* Animation for input Groups and TextArea */
 .input-group {
   margin-bottom: 40px;
   position: relative;

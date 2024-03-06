@@ -29,6 +29,7 @@ const ContactForm = () => {
 
   console.log("Data: ", data);
 
+  //Alert Message Logic
   useEffect(() => {
     let timer;
     if (formSubmitted) {

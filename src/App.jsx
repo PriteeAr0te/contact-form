@@ -1,7 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
 import ContactForm from "./Components/ContactForm";
-import Alert from "./Components/Alert";
-
 const App = () => {
   return (
     <>
